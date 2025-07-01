@@ -34,7 +34,6 @@ with open('my_fasta',"r") as f:
    print ("seq:",record.seq)
   print('---')
 
-pip install biopython
 
 
 
